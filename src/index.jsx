@@ -15,7 +15,7 @@ import App from './App';
 
 import './style.scss';
 
-// test commit -- 
+// test commit
 
 const root = document.getElementById('root');
 
