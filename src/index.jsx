@@ -15,7 +15,7 @@ import App from './App';
 
 import './style.scss';
 
-// test commit -- CU-866a1n3nm
+// test commit -- Fixes #866a1n3nm
 
 const root = document.getElementById('root');
 
