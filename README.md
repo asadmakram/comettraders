@@ -1,5 +1,6 @@
 # simple-react-app
 
+Lets get started
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 But you still get it.
