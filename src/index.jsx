@@ -15,7 +15,7 @@ import App from './App';
 
 import './style.scss';
 
-// test commit -- Fixes #866a1n3nm is working
+// test commit -- changes for the  #866a1n3nm[IN REVIEW]
 
 const root = document.getElementById('root');
 
