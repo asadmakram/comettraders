@@ -15,7 +15,7 @@ import App from './App';
 
 import './style.scss';
 
-// test commit -- git commit -m 'Add Brand name field in the product - Meri Pharmacy #866a1n1ep[IN REVIEW]'
+// test commit -- git commit -m 'Add Brand name field in the product - Meri Pharmacy, #866a1n1ep[IN REVIEW]'
 
 const root = document.getElementById('root');
 
